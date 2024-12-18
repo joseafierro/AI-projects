@@ -1,3 +1,5 @@
+#Initial testing for basic neural network 
+
 import numpy as np
 
 class NeuralNetwork:
