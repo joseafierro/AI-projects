@@ -55,7 +55,7 @@ Installation and Setup
 
     Clone the repository:
 
-git clone https://github.com/username/ai-projects.git
+git clone https://github.com/joseafierro/ai-projects.git
 cd ai-projects
 
 Create a virtual environment and install dependencies:
