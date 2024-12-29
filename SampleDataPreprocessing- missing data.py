@@ -1,6 +1,6 @@
 import pandas as pd
 
-# Step 1: Load the dataset
+# Step 1: Load the dataset from local machine
 df = pd.read_csv('/home/josefierro/Documents/data.csv')
 
 # Step 2: Ensure proper data types
