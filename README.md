@@ -18,11 +18,11 @@ Project Structure
 Each project will be organized into its own folder with the following structure:
 
 project-name/
-├── data/            # Dataset or data-loading scripts
-├── notebooks/       # Jupyter Notebooks for exploration and visualization
-├── src/             # Source code for models and utilities
-├── results/         # Output files like logs, trained models, or evaluation metrics
-├── README.md        # Details about the specific project
+-data/            # Dataset or data-loading scripts
+-notebooks/       # Jupyter Notebooks for exploration and visualization
+-src/             # Source code for models and utilities
+-results/         # Output files like logs, trained models, or evaluation metrics
+-README.md        # Details about the specific project
 
 Projects List (PENDINg-ongoing)
 Basic neural network (Numpy, test)
